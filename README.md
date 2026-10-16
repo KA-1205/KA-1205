@@ -20,8 +20,6 @@
 
 I'm an AI/ML undergraduate who takes ideas from a rough sketch to a working demo. I move between models, APIs, and interfaces because I want to see what happens when someone actually uses what I've built.
 
-I keep coming back to questions that a polished demo can hide: What happens when the network disappears? How do two devices reconcile conflicting information? Can a number in a report be traced back to the photo and model that produced it? Ex-Vero and Panchnama are my attempts to make those answers visible in working software.
-
 Hackathons push me to learn unfamiliar tools, build with a team under a deadline, and find out what survives beyond the pitch. I care about AI that is useful, explainable, and testable.
 
 > [!NOTE]
