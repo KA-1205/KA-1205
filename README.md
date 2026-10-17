@@ -7,7 +7,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Offline+memory+that+reconnects%3BField+evidence+you+can+trace%3BFrom+hackathon+idea+to+working+demo" alt="Offline memory that reconnects; field evidence you can trace; from hackathon idea to working demo" width="100%" /></p>
 
 <p align="center">
-  <a href="https://kartikarora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_website-8957E5?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://kartikarora.vercel.app/"><img src="assets/portfolio-badge.svg" alt="Visit my portfolio" /></a>
   <a href="https://www.linkedin.com/in/ka1205"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://leetcode.com/u/ka-1205/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode practice" /></a>
 </p>
